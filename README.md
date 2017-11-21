@@ -10,4 +10,8 @@ Please, send your pullrequest and help us to list his issues.
 
 OBS. Try to provide some test on pullrequests
 
+<<<<<<< HEAD
 Teste
+=======
+Outro teste
+>>>>>>> origin
